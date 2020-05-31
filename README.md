@@ -1,6 +1,11 @@
 # Distributed-MMO-Engine (WIP)
 Teorical example of a distributed Massively Multiplater Online Game (MMO)
 
+### This is a temporary README, the official writings are in [here](https://docs.google.com/document/d/1iEqlno0N0R-ATCFyoOFpxP3etkFrCV48iCZfHtFzDb8/edit?usp=sharing)
+When finished this readme will be the official repo.
+
+----
+
 Welcome to the MMO Architecture project! Here you will find the core concepts of how a distributed Massive Multiplayer Online game (networking and software-wise) works.
 
 The first inspiration for this project is how a game like World of Warcraft or Lineage works, and how we can make a massive world function seamlessly to the player while being distributed and load-balanced behind the scenes.
