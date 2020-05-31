@@ -1,4 +1,4 @@
-# Distributed-MMO-Engine (WIP)
+# Distributed MMO Engine (WIP)
 Teorical example of a distributed Massively Multiplater Online Game (MMO)
 
 ### This is a temporary README, the official writings (with images) are in [here](https://docs.google.com/document/d/1iEqlno0N0R-ATCFyoOFpxP3etkFrCV48iCZfHtFzDb8/edit?usp=sharing)
